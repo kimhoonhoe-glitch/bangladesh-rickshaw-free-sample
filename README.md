@@ -13,8 +13,7 @@
 
 | Free Sample | Enterprise Dataset | Company |
 |--------------|--------------------|----------|
-| 🤗 Hugging Face | 💼 Commercial License | 🌐 Origin Data Lab |
-| (HF 링크) | (Paddle 링크) | https://origindatalab.io |
+| 🤗 **[Download on Hugging Face](https://huggingface.co/datasets/origindatalab/bangladesh-rickshaw-traffic-free-sample-v1)** | 💼 **Coming Soon** | 🌐 **[Origin Data Lab](https://origindatalab.io)** |
 
 > High-quality urban traffic video dataset from Bangladesh for **Physical AI**, **Robotics**, **ADAS**, **Computer Vision**, **Autonomous Driving**, and **Object Detection** research.
 
